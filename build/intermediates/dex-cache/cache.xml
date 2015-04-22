@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Victor Hernandez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-1c0d809c7907dc70352e44166f062c3af16edec8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\pre-dexed\debug\classes-a75984f40867498fab7494eebc5daf162a4c981e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-f07791c377129b93f3f6f2ecd6daa3c5f02daa7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\libs\sd-sdk-facial-processing.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="18b675f7e2b5895521c475cded91414e2bfbe047">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\pre-dexed\debug\sd-sdk-facial-processing-6e67d98c790e6f39ab452cd4f81f665ab301fac3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\pre-dexed\debug\classes-30f35270c3282a16f4d282cfb80e942125ab1070.jar" />
+    </item>
+    <item
+        jar="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\libs\armeabi.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="10fb74e4784b4fd712d150da8ddfab795d691d5e">
+        <dex dex="C:\Users\Victor Hernandez\Documents\SVN_Projects3\FacialDataProcessing\app\build\intermediates\pre-dexed\debug\armeabi-ed7bb91107478a560ed0e217677ed5556aa1004d.jar" />
+    </item>
+
+</items>
